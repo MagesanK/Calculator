@@ -14,5 +14,6 @@ elif(operator=="/"):
      else:
           print("CANNOT DIVIDED BY ZERO")     
 else:
-     print("OPERATION CANNOT DOABLE!")          
+     print("OPERATION CANNOT DOABLE!") 
+input("Press ENTER to exit...")    
 
