@@ -1,29 +1,63 @@
-# 🧮 Python Calculator
+# 🧮 Calculator Projects — From Basics to Advanced
 
-A lightweight command-line calculator built with Python that performs essential arithmetic operations, including addition, subtraction, multiplication, and division. This project demonstrates my understanding of conditional logic, user input handling, and error handling, while building a strong foundation in software development and problem-solving.
+A growing collection of calculator applications developed using Python, showcasing my journey from fundamental programming concepts to more advanced software development. This repository will evolve through multiple calculator versions, each introducing new features, improved functionality, and more robust implementation techniques.
 
-## 🚀 Features
-- Supports basic arithmetic operations.
-- Handles division-by-zero scenarios.
-- Uses conditional statements to process user-selected operators.
-- Provides a simple, interactive command-line experience.
+## 🎯 Project Vision
 
-## 🛠️ Tech Stack
-- **Language:** Python 3
-- **Concepts:** Conditional Logic, User Input, Arithmetic Operations, Error Handling
+The goal of this repository is to build a structured progression of calculator applications, strengthening my Python programming skills, logical thinking, and software engineering practices through hands-on development.
 
-## 🎯 Project Objective
-To strengthen my Python programming fundamentals by developing a functional application and applying logical thinking to real-world programming tasks.
+## 📂 Project Roadmap
 
-## 🔮 Future Improvements
-- Add support for decimal numbers and more mathematical operations.
-- Improve input validation and exception handling.
-- Develop a graphical user interface (GUI).
-- Add automated tests to improve reliability.
+| Version | Project | Status |
+|---|---|---|
+| V1 | Basic Command-Line Calculator | ✅ Completed |
+| V2 | Improved Basic Calculator with Input Validation | 🔜 Planned |
+| V3 | Scientific Calculator | 🔜 Planned |
+| V4 | GUI-Based Calculator Application | 🔜 Planned |
+| V5 | Advanced Calculator with Extended Mathematical Features | 🔜 Planned |
+
+*The roadmap may evolve as new concepts and improvements are explored.*
+
+## 🛠️ Technologies
+
+- **Programming Language:** Python
+- **Core Concepts:** Conditional Logic, User Input, Arithmetic Operations, Error Handling
+- **Future Learning Areas:** Object-Oriented Programming, GUI Development, Automated Testing, and Code Quality
+
+## ▶️ Getting Started
+
+### Prerequisites
+- Python 3 installed on your system.
+- Git installed if you want to clone the repository.
+
+### Run the Basic Calculator
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MagesanK/Calculator.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Calculator
+   ```
+
+3. Run the application:
+
+   ```bash
+   python CalculatorV01.py
+   ```
+
+## 📈 Development Philosophy
+
+Each version will build upon previous learning, with an emphasis on readable code, reliable functionality, maintainability, and continuous improvement. The long-term objective is to transform a simple calculator into a collection of increasingly capable applications while documenting my progress as a software developer.
 
 ## 👨‍💻 Author
+
 **Magesan K**
 
-GitHub: https://github.com/MagesanK
+GitHub: [MagesanK](https://github.com/MagesanK)
 
-*Building a strong foundation in software engineering through hands-on projects, continuous learning, and practical problem-solving.*
+*Learn. Build. Improve. Repeat.*
